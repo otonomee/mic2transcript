@@ -5,9 +5,9 @@ mic2transcript is a CLI tool that will continuously transcribe audio from the de
 ## CLI User Inputs 
 - <output-file-name>.txt
 - <whisper-model>
-  -- `tiny`: Fastest, lowest accuracy. Suitable for quick transcriptions or resource-constrained environments.
-  -- `medium`: Balanced performance. Good for general use, offering a trade-off between speed and accuracy.
-  -- `large`: Highest accuracy, slowest speed. Best for scenarios requiring maximum transcription quality.
+    - `tiny`: Fastest, lowest accuracy. Suitable for quick transcriptions or resource-constrained environments.
+    - `medium`: Balanced performance. Good for general use, offering a trade-off between speed and accuracy.
+    - `large`: Highest accuracy, slowest speed. Best for scenarios requiring maximum transcription quality.
 
 ## Requirements
 
