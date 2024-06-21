@@ -34,6 +34,3 @@ You will be prompted to select a Whisper model and specify an output file name f
 
 The tool will run in the background, transcribing any detected audio into the specified text file. Press 'q' in the terminal to stop 
 the transcription process.
-
-## License
-This project is open-sourced under the MIT License.
