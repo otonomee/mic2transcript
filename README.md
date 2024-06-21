@@ -1,6 +1,6 @@
 # mic2transcript
 
-mic2transcript is a CLI tool that will continuously transcribe audio from the device's built-in microphone to a text file using OpenAI Whisper.
+mic2transcript is a CLI tool that will continuously transcribe audio from the device's built-in microphone to a text file using [OpenAI Whisper](https://github.com/openai/whisper).
 
 ## CLI Inputs 
 - Name of output text file
