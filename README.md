@@ -2,9 +2,9 @@
 
 mic2transcript is a CLI tool that will continuously transcribe audio from the device's built-in microphone to a text file using OpenAI Whisper.
 
-## CLI User Inputs 
-- <output-file-name>.txt
-- <whisper-model>
+## CLI Inputs 
+- Name of output text file
+- Transcription model
     - `tiny`: Fastest, lowest accuracy. Suitable for quick transcriptions or resource-constrained environments.
     - `medium`: Balanced performance. Good for general use, offering a trade-off between speed and accuracy.
     - `large`: Highest accuracy, slowest speed. Best for scenarios requiring maximum transcription quality.
